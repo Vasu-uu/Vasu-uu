@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hey there! I'm <span style="color:#70A5FD;">Vasudev V</span></h1>
 
 <p align="center">
@@ -26,14 +25,30 @@
 
 ### 🧰 Tech Stack
 
-**Languages:**  
-`Python` · `C++` · `C` · `JavaScript`
+#### 🧩 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-03599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**Development Tools:**  
-`HTML5` · `CSS3` · `Git` · `GitHub` · `Node.js (Basics)`
+#### 🧮 Web & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-**Focus Areas:**  
-`Blockchain` · `Smart Contracts` · `AI/ML` · `AI for IoT`
+#### 🔬 Focus Areas
+<p align="left">
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Smart%20Contracts-4E44CE?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20for%20IoT-008CFF?style=for-the-badge&logo=internetofthings&logoColor=white"/>
+</p>
 
 ---
 
