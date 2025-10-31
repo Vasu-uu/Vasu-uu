@@ -1,4 +1,3 @@
-<!-- Dynamic GitHub Profile README for Vasudev V -->
 
 <h1 align="center">👋 Hey there! I'm <span style="color:#70a5fd;">Vasudev V</span></h1>
 
