@@ -1,65 +1,87 @@
-# 👋 Hey there! I'm Vasudev V
+<!-- Dynamic GitHub Profile README for Vasudev V -->
 
-I'm a passionate and curious Computer Science undergrad from Kerala, currently pursuing my B.Tech in Computer Science at **Saintgits College of Engineering**. My core interests lie in **Blockchain**, **Artificial Intelligence**, and **Web Development**, and I am actively exploring how these fields intersect with **IoT** technologies.
+<h1 align="center">👋 Hey there! I'm <span style="color:#70a5fd;">Vasudev V</span></h1>
+
+<p align="center">
+  <b>Computer Science Undergrad | Blockchain & AI Enthusiast | Web Developer</b><br>
+  <em>Still learning, still building. Every project is a step forward.</em>
+</p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Undergraduate student with a goal to become a versatile tech problem-solver  
-- 💡 Excited to explore emerging technologies and real-world applications  
-- 🧠 Pursuing a **Minor in AI for IoT** and **Honors in Blockchain Technologies**  
-- 🌐 Love building practical web applications and experimenting with decentralized solutions  
-- 🚀 Participating in hackathons to learn teamwork, innovation, and quick execution  
-- 🔍 Currently exploring **AI integration into IoT systems** and **smart contracts**  
-- 🤝 Open to internships, collaborations, and learning opportunities in tech and research  
+- 🎓 B.Tech Computer Science student at **Saintgits College of Engineering**, Kerala  
+- 💡 Exploring **Blockchain**, **Artificial Intelligence**, and **Web Development**  
+- 🧠 Pursuing **Minor in AI for IoT** & **Honors in Blockchain Technologies**  
+- 🚀 Passionate about **hackathons**, innovation, and real-world problem-solving  
+- 🔍 Currently working on **AI + IoT integration** and **smart contract applications**  
+- 🤝 Open to **internships**, **research**, and **collaboration opportunities**  
 
 ---
 
 ### 💻 Tech Stack & Tools
 
-**Languages I Work With**  
-- `Python` – For AI, data analysis, and automation  
-- `C++` & `C` – Strong foundation in problem-solving and algorithms  
-- `JavaScript` – For frontend interactivity and web logic  
+#### 🧩 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend Development**  
-- `HTML5`, `CSS3`, `Tailwind CSS`, `Bootstrap` – Responsive, accessible, and beautiful UIs  
+#### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Web & Frameworks**  
-- `Git` & `GitHub` – For version control and collaboration  
-- `React (Basics)` – For building modular web components  
-- `Node.js (Basics)` – For understanding backend fundamentals  
+#### ⚙️ Tools & Frameworks
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Specialized Interests**  
-- `Blockchain` – Ethereum fundamentals, smart contracts, decentralized apps (DApps)  
-- `AI & Machine Learning` – AI model development, embedded AI, intelligent decision-making systems  
-- `AI for IoT` – Smart devices and automation using AI  
+#### 🔍 Areas of Interest
+- 🪙 **Blockchain** – Ethereum, Smart Contracts, DApps  
+- 🤖 **AI & ML** – Model development, intelligent decision systems  
+- 🌐 **AI for IoT** – Smart devices, automation, and connected intelligence  
 
 ---
 
-### 📋 GitHub Activity Overview
+### 📊 GitHub Stats
 
-![Vasu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vasu-uu&theme=tokyonight)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vasu-uu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasu-uu&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ### 🏆 GitHub Achievements
 
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Vasu-uu&theme=tokyonight&no-frame=true&no-bg=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vasu-uu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 
 ---
 
-### 📫 Let’s Connect & Collaborate
+### 🌱 Activity Graph
 
-I'm always up for new ideas, meaningful collaborations, and learning from others in the tech community. Feel free to reach out!
-
-- 🔗 [GitHub](https://github.com/Vasu-uu)  
-- 🔗 [LinkedIn](https://linkedin.com/in/vasudev-v-)  
-- ✉️ vasudev20057d@gmail.com  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vasu-uu&theme=tokyo-night" />
+</p>
 
 ---
 
-### 📌 Quote I Live By
+### 📫 Connect with Me
 
-> *"Still learning, still building. Every project is a step forward."*
+<p align="center">
+  <a href="https://github.com/Vasu-uu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vasudev-v-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vasudev20057d@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<h3 align="center">✨ "Still learning, still building. Every project is a step forward." ✨</h3>
+
+---
