@@ -29,10 +29,10 @@ I also explore **AI** and **Blockchain** as areas of interest, but my primary fo
 - Data visualization and reporting
 
 ### Programming
-- Python, C, C++, JavaScript
+- Python, C
 
 ### Tools
-- Git, GitHub, VS Code
+- Git, GitHub
 
 ---
 
