@@ -1,51 +1,57 @@
-# Vasudev V
+<h1 align="center">Vasudev V</h1>
 
-**Computer Science Undergraduate | Data Analytics Enthusiast**
+<p align="center">
+  <strong>Computer Science Undergraduate</strong><br>
+  <strong>Data Analytics Enthusiast</strong>
+</p>
+
+<p align="center">
+  <em>Turning data into insights that support informed decisions.</em>
+</p>
 
 ---
 
-## About Me
+## 📊 About Me
 
-I am a **Computer Science undergraduate** with a primary interest in **Data Analytics**, focused on transforming raw data into meaningful insights that support data-driven decision-making.
+I am a **Computer Science undergraduate** with a primary focus on **Data Analytics**. I enjoy working with data to uncover patterns, trends, and insights that help in understanding performance and improving decision-making.
 
-I work with **Excel, SQL, Python**, and basic visualization techniques to clean, analyze, and interpret datasets. I enjoy exploring trends, patterns, and metrics through structured analysis and dashboards.
+My experience includes **data cleaning, analysis, visualization, and reporting** using tools like **Excel, SQL, and Python**. I value clear, structured analysis and well-presented results.
 
-I also have an academic interest in **AI** and **Blockchain**, but my main focus remains on **data analysis and analytics-driven problem solving**.
+I also explore **AI** and **Blockchain** out of personal interest, but my main focus remains on **analytics-driven problem solving**.
 
 🎓 B.Tech in Computer Science and Engineering  
-📍 Saintgits College of Engineering  
-📊 Open to data analytics internships and projects  
+🏫 Saintgits College of Engineering  
+📈 Actively seeking data analytics internships and learning opportunities  
 
 ---
 
-## Skills
+## 🧠 Skills
 
-**Data Analytics**
-- Excel (data cleaning, analysis, dashboards)
-- SQL (queries, joins, aggregations)
-- Python (pandas, basic data analysis)
-- Data visualization and reporting
+<p align="center">
+  <strong>Data Analytics</strong><br>
+  Excel • SQL • Python • Data Cleaning • Data Visualization • Reporting
+</p>
 
-**Programming**
-- Python, C, C++, JavaScript
+<br>
 
-**Tools**
-- Git, GitHub, VS Code
+<p align="center">
+  <strong>Programming</strong><br>
+  Python • C 
+</p>
 
----
+<br>
 
-## Projects
-
-- **Swiggy Sales Analytics Dashboard**  
-  Sales analysis from January 2025 to August 2025 using Excel.  
-  Focused on order trends, revenue insights, and performance metrics.
-
-*(More analytics projects coming soon)*
+<p align="center">
+  <strong>Tools</strong><br>
+  Git • GitHub • VS Code
+</p>
 
 ---
 
-## Contact
+## 📫 Contact
 
-- GitHub: https://github.com/Vasu-uu  
-- LinkedIn: https://linkedin.com/in/vasudev-v-  
-- Email: vasudev20057d@gmail.com
+<p align="center">
+  <a href="https://github.com/Vasu-uu">GitHub</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/vasudev-v-">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:vasudev20057d@gmail.com">Email</a>
+</p>
