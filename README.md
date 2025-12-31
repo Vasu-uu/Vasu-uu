@@ -7,43 +7,52 @@
 
 <p align="center">
   <strong>Computer Science Undergraduate</strong><br>
-  <strong>Blockchain • AI • IoT • Full-Stack Enthusiast</strong><br>
-  <em>“Still learning, still building. Every project is a step forward.”</em>
+  <strong>Data Analytics Enthusiast • SQL • Excel • Python</strong><br>
+  <em>“Turning raw data into meaningful insights.”</em>
 </p>
 
 ---
 
-## 🌟 About Me
+## 📊 About Me
 
-I’m a passionate **Computer Science student** exploring how **AI**, **Blockchain**, and the **Internet of Things** can be integrated to build powerful real-world solutions.
+I’m a **Computer Science undergraduate** with a strong interest in **Data Analytics**, focused on extracting insights from data to support **better decision-making** and **real-world problem solving**.
 
-I enjoy turning ideas into impactful projects through **hackathons**, **research**, and consistent hands-on development.
+I enjoy working with datasets to perform **data cleaning, analysis, visualization, and reporting**, and presenting insights in a clear and structured manner through dashboards and reports.
+
+Alongside data analytics, I also explore **AI** and **Blockchain** out of curiosity and interest, but my primary focus is on **analytics-driven problem solving**.
 
 🎓 B.Tech CSE @ *Saintgits College of Engineering*  
-📘 Minor in *AI for IoT* | Honors in *Blockchain Technologies*  
-🚀 Focused on practical innovation & building scalable systems  
-🤝 Open to internships, collaborations, and tech opportunities  
+📈 Interested in Data Analysis, Reporting, and Visualization  
+🧠 Curious about AI & Blockchain  
+🤝 Open to internships, analytics projects, and collaborations  
 
 ---
 
 ## 🧠 Skills & Technologies
 
-### 🔤 **Languages**
+### 📌 **Data Analytics Stack**
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=light"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-FF9800?style=for-the-badge"/>
+</p>
+
+### 🔤 **Programming Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js&theme=light"/>
 </p>
 
-### 🌐 **Web & Dev Tools**
+### 🌐 **Web & Development Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,git,github,vscode&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=light"/>
 </p>
 
-### 🔗 **Specialized Domains**
+### 🔗 **Other Areas of Interest**
 <p>
-  <img src="https://img.shields.io/badge/Blockchain-2E2E2E?style=for-the-badge&logo=bitcoin&logoColor=F7931A"/>
-  <img src="https://img.shields.io/badge/Smart%20Contracts-4E44CE?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20for%20IoT-008CFF?style=for-the-badge&logo=internetofthings&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blockchain-2E2E2E?style=for-the-badge&logo=bitcoin&logoColor=F7931A"/>
 </p>
 
 ---
@@ -51,8 +60,8 @@ I enjoy turning ideas into impactful projects through **hackathons**, **research
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasu-uu&theme=tokyonight&hide_border=true&stroke=white" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Vasu-uu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasu-uu&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasu-uu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
@@ -61,7 +70,7 @@ I enjoy turning ideas into impactful projects through **hackathons**, **research
 
 ---
 
-## 🧩 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vasu-uu&theme=tokyonight&hide_border=true&area=true"/>
