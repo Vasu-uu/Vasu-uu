@@ -1,11 +1,10 @@
-Hi there, I'm Vasudev V 👋
+Hi, I'm Vasudev V 👋
 
 
-  CS undergrad passionate about building ML-powered systems and data apps that move from raw numbers to real decisions.
+  CS undergrad building ML-powered systems and data apps — from raw datasets to real decisions.
 
 
 
-  
   
   
   
@@ -17,10 +16,9 @@ Hi there, I'm Vasudev V 👋
 ## 🧑‍💻 About me
 
 - 🎓 B.Tech CSE · **Saintgits College of Engineering**, Kerala
-- 📊 Working at the intersection of **ML, Data Science & Computer Vision**
-- 🚀 Building interactive data apps with **Streamlit**
+- 🤖 Working at the intersection of **ML, Data Science & Computer Vision**
 - 📈 Focused on **predictive analytics** — forecasting, regression, classification
-- 🔍 Actively seeking internships in **AI/ML and Data Science**
+- 🔍 Seeking internships in **AI/ML and Data Science**
 - 📍 Kerala, India
 
 ---
@@ -29,11 +27,10 @@ Hi there, I'm Vasudev V 👋
 
 | | Area | Description |
 |---|---|---|
-| 🤖 | **AI / ML** | Model building, training, evaluation & deployment |
+| 🤖 | **AI / ML** | Model building, training & evaluation |
 | 📈 | **Predictive analytics** | Forecasting, regression & classification models |
-| 👁️ | **Computer vision** | Image processing, object detection, CV pipelines |
-| 📊 | **Data science** | EDA, visualization, storytelling with data |
-| 🚀 | **Streamlit apps** | Interactive ML & data apps for real-world use |
+| 👁️ | **Computer vision** | Image processing & detection pipelines |
+| 📊 | **Data science** | EDA, visualization & storytelling with data |
 
 ---
 
@@ -47,7 +44,6 @@ Hi there, I'm Vasudev V 👋
 
 **ML & Data**
 
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -65,15 +61,6 @@ Hi there, I'm Vasudev V 👋
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub stats
-
-
-  
-  
-
 
 ---
 
