@@ -280,75 +280,6 @@ Designing and executing ML-driven projects spanning computer vision, predictive 
 
 ---
 
-## ◈ Certifications
-
-<br/>
-
-**NPTEL — IIT / IISc**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Python-6d28d9?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Data%20Science%20for%20Engineers-7c3aed?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Introduction%20to%20ML-4f46e5?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-
-<br/>
-
-**Cisco Networking Academy**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
-<br/>
-
-**Google / Coursera**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Google-Crash%20Course%20on%20Python-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coursera-Machine%20Learning%20Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
-</p>
-
-<br/>
-
-**Kaggle**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Kaggle-Python-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-Pandas-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-Machine%20Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-Data%20Visualization-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</p>
-
-<br/>
-
----
-
-## ◈ Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/Vasu-uu/">
-    <img src="https://img.shields.io/badge/LeetCode-Vasu--uu-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/vasudev20057d/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-vasudev20057d-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/vasudev20057d">
-    <img src="https://img.shields.io/badge/HackerRank-vasudev20057d-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/vasu_uu">
-    <img src="https://img.shields.io/badge/CodeChef-vasu__uu-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
----
-
 ## ◈ GitHub Analytics
 
 <p align="center">
@@ -358,17 +289,7 @@ Designing and executing ML-driven projects spanning computer vision, predictive 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasu-uu&theme=tokyonight&background=0d0d0d&border=6d28d9&stroke=7c3aed&ring=6d28d9&fire=a855f7&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=7c3aed&sideLabels=7c3aed&dates=6b7280" />
-</p>
-
-<br/>
-
----
-
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vasu-uu&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=7c3aed" />
+  <img src="https://streak-stats.demolab.com/?user=Vasu-uu&theme=tokyonight&background=0d0d0d&border=6d28d9&stroke=7c3aed&ring=6d28d9&fire=a855f7&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=7c3aed&sideLabels=7c3aed&dates=6b7280" />
 </p>
 
 <br/>
@@ -385,10 +306,10 @@ Designing and executing ML-driven projects spanning computer vision, predictive 
 
 ---
 
-## ◈ Contribution Snake
+## ◈ Contribution Heatmap
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vasu-uu/Vasu-uu/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://ghchart.rshah.org/6d28d9/Vasu-uu" alt="Vasudev's GitHub Contribution Chart" />
 </p>
 
 <br/>
