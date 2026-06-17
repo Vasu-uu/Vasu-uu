@@ -1,128 +1,187 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:4f46e5&height=200&section=header&text=Vasudev%20V&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20%7C%20Computer%20Vision&descAlignY=55&descSize=18&animation=fadeIn" />
-</p>
+<!-- ============================================================ -->
+<!--                            HEADER                            -->
+<!-- ============================================================ -->
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=ML+Engineer+%7C+Data+Scientist;Computer+Vision+Practitioner;Predictive+Analytics+Builder;B.Tech+CSE+%40+Saintgits+College;Building+Intelligent+Systems+from+Data" alt="Typing SVG" />
-  </a>
-</p>
+# Vasudev V
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-6d28d9?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Saintgits%20College-Kerala%2C%20India-7c3aed?style=for-the-badge&logo=university&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20%2F%20Data%20Science-4f46e5?style=for-the-badge&logo=brain&logoColor=white" />
-</p>
+#### ML Engineer · Data Scientist · Computer Vision Practitioner · B.Tech CSE Student
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍%20Kerala-India-6d28d9?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-22c55e?style=flat-square&logo=circle&logoColor=white" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&height=50&lines=B.Tech+CSE+%40+Saintgits+College%2C+Kerala;Predictive+Analytics+%26+Computer+Vision+Builder;Honors+in+Blockchain+%7C+Minor+in+AI+for+IoT;Technical+Lead+%40+Saintgits+Blockchain+Club;Open+to+AI%2FML+%26+Data+Science+Internships+%E2%9A%A1" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/Vasu-uu">
-    <img src="https://img.shields.io/badge/GitHub-Vasu--uu-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/vasudev-v-">
-    <img src="https://img.shields.io/badge/LinkedIn-vasudev--v-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:vasudev20057d@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vasudev20057d%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vasu-uu&label=Profile%20Views&color=6d28d9&style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Vasu-uu?label=Followers&style=flat-square&color=7c3aed&logo=github" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Vasu-uu?label=Stars&style=flat-square&color=4f46e5&logo=github" />
-</p>
+<!-- ============================================================ -->
+<!--                       SOCIAL + METRICS                       -->
+<!-- ============================================================ -->
+<div align="center">
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasudev-v-)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vasu-uu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasudev20057d@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vasu-uu&label=Profile%20Views&color=6d28d9&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/Vasu-uu?label=Followers&style=for-the-badge&color=7c3aed&logo=github)](https://github.com/Vasu-uu?tab=followers)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-22c55e?style=for-the-badge&logo=circle&logoColor=white)](https://github.com/Vasu-uu)
+
+</div>
 
 ---
 
-## ◈ About
+<!-- ============================================================ -->
+<!--                       BRAND STATEMENT                        -->
+<!-- ============================================================ -->
+<div align="center">
 
-<p align="left">
-I am a Computer Science undergraduate at <strong>Saintgits College of Engineering, Kerala</strong>, operating at the intersection of <strong>machine learning, data science, and computer vision</strong>. My engineering focus is on building data-driven systems that translate raw, unstructured information into reliable, production-grade insights and decisions.
+### 🚀 _"Data is the raw material. Engineering is the craft. Impact is the only metric that matters."_
 
-I architect end-to-end ML pipelines — from exploratory data analysis and feature engineering through model training, evaluation, and deployment — with a consistent emphasis on precision, interpretability, and scalability. My work spans <strong>predictive analytics</strong> (regression, classification, time-series forecasting), <strong>computer vision</strong> (image processing, object detection, pipeline automation), and <strong>applied AI</strong> (model optimization, inference pipelines, data storytelling).
+</div>
 
-I approach every project with a product engineering mindset: the goal is never just a model, it is a reliable system that solves a real problem with measurable impact.
-</p>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<br/>
+## 👋 Who I Am
 
-**Open To**
+I'm **Vasudev V** — a **Computer Science undergraduate** at **Saintgits College of Engineering, Kerala**, operating at the intersection of **machine learning, data science, and computer vision**.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML%20Internship-6d28d9?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science%20Internship-7c3aed?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Research%20Collaboration-4f46e5?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Contribution-6366f1?style=flat-square&logoColor=white" />
-</p>
+I architect end-to-end ML pipelines — from exploratory data analysis and feature engineering through model training, evaluation, and deployment — with a consistent emphasis on **precision, interpretability, and scalability**. My work spans **predictive analytics** (regression, classification, time-series forecasting), **computer vision** (image processing, object detection, pipeline automation), and **applied AI** (model optimization, inference pipelines, data storytelling).
 
-<br/>
+I'm pursuing an **Honors in Blockchain Technology** and a **Minor in AI for IoT**, and serve as **Technical Lead at the Saintgits Blockchain Club**. I approach every project with a product engineering mindset: the goal is never just a model, it is a reliable system that solves a real problem with measurable impact.
 
----
+</td>
+<td width="40%" valign="top">
 
-## ◈ Tech Stack
+## ⚡ At a Glance
 
-**Languages**
+```yaml
+name:        Vasudev V
+role:        B.Tech CSE Student
+college:     Saintgits, Kerala
+focus:       AI/ML · Data Science · CV
+honors:      Blockchain Technology
+minor:       AI for IoT
+club:        Tech Lead, Blockchain Club
+internships: Infosys Springboard,
+             Intel Unnati, InAmigos
+open_to:     AI/ML & DS Internships
+```
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-<br/>
-
-**ML, Data & Visualization**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-</p>
-
-<br/>
-
-**Backend & Databases**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,sqlite&theme=dark" />
-</p>
-
-<br/>
-
-**Cloud, DevOps & Tooling**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
-</p>
-
-<br/>
+</td>
+</tr>
+</table>
 
 ---
 
-## ◈ AI / ML Expertise
+<!-- ============================================================ -->
+<!--                  CURRENTLY BUILDING / LEARNING               -->
+<!-- ============================================================ -->
+## 🔭 Currently Building & Learning
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ Building
+- 🌾 **Crop disease detection** computer vision pipelines for agricultural AI
+- 📊 **Predictive analytics engines** for regression & classification workflows
+- 📈 **Streamlit dashboards** for automated EDA and data storytelling
+- 🔌 Modular **ML training scaffolds** for rapid prototyping
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Learning & Exploring
+- 🧠 **Deep learning architectures** — CNNs, Vision Transformers
+- ⚙️ **MLOps fundamentals** — model versioning, serving, monitoring
+- 🚀 **FastAPI** for ML model deployment
+- 🤖 LLM APIs, prompt engineering & the **Hugging Face** ecosystem
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ============================================================ -->
+<!--                          TECH STACK                          -->
+<!-- ============================================================ -->
+## 🧰 Tech Stack
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="python" width="58" height="58" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="tensorflow" width="58" height="58" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="opencv" width="58" height="58" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="docker" width="58" height="58" />
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="right" width="170"><b>🧠 Languages & Core</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="python" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c&theme=dark&animate=true" width="48" height="48" alt="c" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark&animate=true" width="48" height="48" alt="sql" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark&animate=true" width="48" height="48" alt="linux" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>🤖 ML / DL / CV</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark&animate=true" width="48" height="48" alt="tensorflow" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark&animate=true" width="48" height="48" alt="pytorch" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark&animate=true" width="48" height="48" alt="opencv" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn&theme=dark&animate=true" width="48" height="48" alt="sklearn" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>📊 Data & Viz</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark&animate=true" width="48" height="48" alt="numpy/pandas" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>☁️ Backend · Tooling</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark&animate=true" width="48" height="48" alt="fastapi" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask&theme=dark&animate=true" width="48" height="48" alt="flask" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="48" height="48" alt="docker" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark&animate=true" width="48" height="48" alt="vscode" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark&animate=true" width="48" height="48" alt="github" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**📈 NumPy · Pandas · Matplotlib · Seaborn · Streamlit**
+
+![NumPy](https://img.shields.io/badge/NumPy-1A1A2E?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1A1A2E?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1A1A2E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1A1A2E?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-1A1A2E?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1A1A2E?style=flat-square&logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-1A1A2E?style=flat-square&logo=sqlite&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-1A1A2E?style=flat-square&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-1A1A2E?style=flat-square&logo=kaggle&logoColor=white)
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                       AI / ML EXPERTISE                      -->
+<!-- ============================================================ -->
+## 🧠 AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
@@ -134,13 +193,40 @@ I approach every project with a product engineering mindset: the goal is never j
 | **Deep Learning** | ██████░░░░ Intermediate | Neural network architectures, CNNs, transfer learning fundamentals |
 | **Data Storytelling** | ████████░░ Advanced | Dashboards, visual narratives, Streamlit apps, business-ready reporting |
 
-</div>
+---
 
-<br/>
+<!-- ============================================================ -->
+<!--                  EXPERIENCE & CONTRIBUTIONS                  -->
+<!-- ============================================================ -->
+## 🌍 Experience & Internships
+
+> Hands-on AI/ML internships plus independent, production-grade academic project work.
+
+| 🏢 Organization | 🎯 Role | 🛠️ What I Did |
+|:---|:---|:---|
+| **Infosys Springboard** | AI Intern | Applied AI/ML concepts in a structured industry internship program. |
+| **Intel Unnati Industrial Training Program** | ML Trainee | Completed industrial ML training focused on applied model development. |
+| **Saintgits Blockchain Club** | Technical Lead | Leading technical initiatives and mentoring within the college's blockchain community. |
+| **InAmigos Foundation** | Incoming Intern | Conducted a website audit producing an annotated PDF report; accepted internship offer. |
+| **Saintgits College of Engineering** | ML Engineer — Academic Projects & Independent Research (2022–Present) | Designed and executed end-to-end ML/CV/data science projects from EDA through deployment. |
+
+<sub>🔍 Actively seeking AI/ML and Data Science internships — open to research collaborations and open-source contributions.</sub>
 
 ---
 
-## ◈ Featured Projects
+<!-- ============================================================ -->
+<!--                       FEATURED PROJECTS                      -->
+<!-- ============================================================ -->
+## 📌 Featured Projects
+
+<div align="center">
+
+[![Network Threat Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=Vasu-uu&repo=Network-Threat-Analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7C3AED&title_color=A855F7)](https://github.com/Vasu-uu/Network-Threat-Analyzer)
+[![Heart Failure Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Vasu-uu&repo=Heart-Failure-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7C3AED&title_color=A855F7)](https://github.com/Vasu-uu/Heart-Failure-Prediction)
+[![Crop Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=Vasu-uu&repo=Crop-Recommendation-System&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7C3AED&title_color=A855F7)](https://github.com/Vasu-uu/Crop-Recommendation-System)
+[![Complaint Management System](https://github-readme-stats.vercel.app/api/pin/?username=Vasu-uu&repo=Complaint-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7C3AED&title_color=A855F7)](https://github.com/Vasu-uu/Complaint-Management-System)
+
+</div>
 
 <details>
 <summary><b>⬡ &nbsp;Crop Disease Detection System</b> &nbsp;—&nbsp; Computer Vision · ML · Streamlit</summary>
@@ -159,7 +245,7 @@ An end-to-end computer vision system designed to detect and classify crop diseas
 | **Architecture** | Image preprocessing pipeline → Feature extraction → Classifier → Streamlit inference UI |
 | **Security** | Local inference, no external data transmission |
 | **Impact** | Enables low-resource, real-time plant health diagnostics for field use |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vasu-uu) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vasu-uu/Crop-Recommendation-System) |
 
 </div>
 
@@ -188,7 +274,7 @@ A modular machine learning system for structured data forecasting and classifica
 | **Architecture** | Ingestion → EDA → Feature Engineering → Model Training → Evaluation → Export |
 | **Security** | Fully local computation, reproducible seeds, versioned outputs |
 | **Impact** | Reusable pipeline scaffold applicable across regression and classification tasks |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vasu-uu) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vasu-uu/Heart-Failure-Prediction) |
 
 </div>
 
@@ -201,61 +287,29 @@ Designed as a repeatable engineering scaffold rather than a single-purpose noteb
 ---
 
 <details>
-<summary><b>⬡ &nbsp;Data Science Dashboard Suite</b> &nbsp;—&nbsp; Streamlit · EDA · Visualization</summary>
+<summary><b>⬡ &nbsp;Network Threat Analyzer</b> &nbsp;—&nbsp; Security · ML · Threat Detection</summary>
 
 <br/>
 
-An interactive analytics platform that automates exploratory data analysis and delivers business-readable visual narratives from raw tabular datasets.
+An AI/ML-based system for classifying network traffic and detecting cyber threats using the UNSW-NB15 dataset, distinguishing safe traffic from malicious activity via a Random Forest classifier.
 
 <div align="center">
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Python · Streamlit · Pandas · Matplotlib · Seaborn · Plotly |
-| **Domain** | Data Visualization · Automated EDA · Business Intelligence |
-| **Performance** | Real-time rendering of statistical summaries, correlation matrices, distribution plots |
-| **Architecture** | CSV/Excel upload → Automated profiling → Interactive visual dashboard |
-| **Security** | Session-scoped data processing, no persistent storage |
-| **Impact** | Reduces time-to-insight for structured datasets; accessible to non-technical stakeholders |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vasu-uu) |
+| **Stack** | Python · Scikit-Learn · Pandas · Random Forest |
+| **Domain** | Network Security · Threat Detection · Applied ML |
+| **Performance** | Multi-class traffic classification on the UNSW-NB15 benchmark dataset |
+| **Architecture** | Traffic ingestion → Feature preprocessing → Random Forest classifier → Threat label output |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vasu-uu/Network-Threat-Analyzer) |
 
 </div>
 
-This dashboard suite transforms the standard EDA workflow into an interactive, code-free experience. Users upload datasets and receive automated statistical profiling, outlier flagging, missing value analysis, and a suite of configurable charts — enabling rapid dataset understanding before any modeling phase begins.
+This project applies classical ML to a security-relevant classification problem, distinguishing benign from malicious network traffic patterns to enable early threat flagging.
 
 <br/>
 
 </details>
-
-<br/>
-
----
-
-## ◈ Experience
-
-<br/>
-
-**Machine Learning Engineer — Academic Projects & Independent Research**
-`Saintgits College of Engineering` &nbsp;|&nbsp; `2022 – Present`
-
-<p align="left">
-Designing and executing ML-driven projects spanning computer vision, predictive analytics, and applied data science. Each project is scoped as a production-grade engineering exercise — from data acquisition and EDA through pipeline architecture, model development, and interface deployment.
-</p>
-
-- Designed image classification pipelines using OpenCV and Scikit-Learn, achieving reliable multi-class performance on agricultural datasets
-- Built and evaluated regression and classification models across multiple structured datasets with automated cross-validation and metric reporting
-- Developed interactive Streamlit applications to expose ML model inference through browser-based interfaces
-- Conducted structured EDA workflows using Pandas, Matplotlib, and Seaborn to extract actionable insights from raw datasets
-- Maintained modular, reproducible codebases with Git version control and documented notebooks
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-</p>
 
 <br/>
 
@@ -267,12 +321,12 @@ Designing and executing ML-driven projects spanning computer vision, predictive 
 
 | Recognition | Details |
 |:---|:---|
-| **Academic Excellence** | Consistent high academic performance in CSE core and elective modules at Saintgits College of Engineering |
-| **ML Project Lead** | Independently designed and delivered end-to-end ML systems from problem framing through deployment |
+| **AI Intern, Infosys Springboard** | Completed structured industry AI/ML internship program |
+| **ML Trainee, Intel Unnati** | Completed industrial training program in applied machine learning |
+| **Technical Lead, Saintgits Blockchain Club** | Leading technical direction and mentorship for the college blockchain community |
+| **Honors in Blockchain Technology** | Pursuing specialized honors track alongside core CSE curriculum |
 | **Computer Vision Pipeline** | Built a fully functional crop disease detection system with real-world agricultural applicability |
-| **Open Source Presence** | Maintained a structured, documented GitHub portfolio reflecting engineering best practices |
-| **Data Science Practice** | Completed multiple end-to-end EDA and predictive modeling projects across diverse datasets |
-| **Internship Ready** | Building toward AI/ML internship placement with a portfolio demonstrating applied engineering depth |
+| **Internship Ready** | Building toward AI/ML and Data Science internship placement with a portfolio demonstrating applied engineering depth |
 
 </div>
 
@@ -280,43 +334,91 @@ Designing and executing ML-driven projects spanning computer vision, predictive 
 
 ---
 
-## ◈ GitHub Analytics
+<!-- ============================================================ -->
+<!--                  GITHUB METRICS & STATS                      -->
+<!-- ============================================================ -->
+## 📊 GitHub Metrics & Stats Dashboard
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vasu-uu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=7c3aed&icon_color=6d28d9&text_color=c4b5fd&bg_color=0d0d0d&border_color=6d28d9&hide_border=false&rank_icon=github" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu-uu&layout=compact&theme=tokyonight&title_color=7c3aed&text_color=c4b5fd&bg_color=0d0d0d&border_color=6d28d9&langs_count=8" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vasu-uu&theme=tokyonight&background=0d0d0d&border=6d28d9&stroke=7c3aed&ring=6d28d9&fire=a855f7&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=7c3aed&sideLabels=7c3aed&dates=6b7280" />
-</p>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vasu-uu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=A855F7"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu-uu&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7C3AED"/>
 
-<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vasu-uu&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakLabel=7C3AED)](https://git.io/streak-stats)
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vasu-uu&theme=tokyonight" width="100%" alt="profile summary"/>
 
-## ◈ Contribution Activity
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vasu-uu&theme=tokyonight" alt="repos per language"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vasu-uu&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vasu-uu&bg_color=0d0d0d&color=7c3aed&line=6d28d9&point=a855f7&area=true&area_color=4f46e5&hide_border=false&border_color=6d28d9&title_color=c4b5fd&custom_title=Contribution%20Activity%20Graph" />
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vasu-uu&bg_color=0D1117&color=7C3AED&line=A855F7&point=ffffff&area=true&hide_border=true)](https://github.com/Vasu-uu)
 
-<br/>
+</div>
 
----
+<!-- ============================================================ -->
+<!--                     CONTRIBUTION HEATMAP                      -->
+<!-- ============================================================ -->
+### 🟪 Contribution Heatmap
 
-## ◈ Contribution Heatmap
+<div align="center">
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/6d28d9/Vasu-uu" alt="Vasudev's GitHub Contribution Chart" />
-</p>
+<img src="https://ghchart.rshah.org/6d28d9/Vasu-uu" alt="Vasudev's GitHub Contribution Chart" />
 
-<br/>
+</div>
 
 ---
 
-## ◈ Current Focus
+<!-- ============================================================ -->
+<!--                     CONTENT & COMMUNITY                      -->
+<!-- ============================================================ -->
+## 🎙️ Focus & Community
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🎓 Academic Track
+📖 B.Tech CSE — Saintgits College of Engineering <br>
+🔗 Honors in **Blockchain Technology** <br>
+🧩 Minor in **AI for IoT** <br>
+📅 Graduating **2027**
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 💼 Industry Exposure
+🏢 AI Intern — **Infosys Springboard** <br>
+🏢 ML Trainee — **Intel Unnati** <br>
+🏢 Incoming Intern — **InAmigos Foundation** <br>
+👨‍💻 Technical Lead — **Blockchain Club**
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🌱 Current Focus
+🧠 Deep learning & Vision Transformers <br>
+⚙️ MLOps fundamentals <br>
+🚀 FastAPI model deployment <br>
+🤖 LLM APIs & prompt engineering
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasudev-v-)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vasu-uu)
+[![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasudev20057d@gmail.com)
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                          CURRENT FOCUS                       -->
+<!-- ============================================================ -->
+## ⚙️ Current Focus
 
 ```yaml
 current_focus:
@@ -344,34 +446,24 @@ current_focus:
     - Mentorship and knowledge-sharing in data science communities
 ```
 
-<br/>
-
 ---
 
-## ◈ Connect
+<!-- ============================================================ -->
+<!--                            QUOTE                             -->
+<!-- ============================================================ -->
+<div align="center">
 
-<p align="center">
-  <a href="mailto:vasudev20057d@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-vasudev20057d%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/vasudev-v-">
-    <img src="https://img.shields.io/badge/LinkedIn-vasudev--v-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Vasu-uu">
-    <img src="https://img.shields.io/badge/GitHub-Vasu--uu-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<br/>
+</div>
 
----
+<!-- ============================================================ -->
+<!--                           FOOTER                             -->
+<!-- ============================================================ -->
+<div align="center">
 
-<p align="center">
-  <i>"Data is the raw material. Engineering is the craft. Impact is the only metric that matters."</i>
-</p>
+**_Thanks for visiting — let's build something impactful together._**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:6d28d9&height=120&section=footer&animation=fadeIn" />
-</p>
+⭐️ If you find my work useful, consider [following](https://github.com/Vasu-uu) or starring a repo.
+
+</div>
