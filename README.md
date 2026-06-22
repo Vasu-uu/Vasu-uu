@@ -8,7 +8,7 @@
 #### ML Engineer · Data Scientist · Computer Vision Practitioner · B.Tech CSE Student
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&height=50&lines=B.Tech+CSE+%40+Saintgits+College%2C+Kerala;Predictive+Analytics+%26+Computer+Vision+Builder;Honors+in+Blockchain+%7C+Minor+in+AI+for+IoT;Technical+Lead+%40+Saintgits+Blockchain+Club;Open+to+AI%2FML+%26+Data+Science+Internships+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&height=50&lines=B.Tech+CSE+%40+Saintgits+College%2C+Kerala;Computer+Vision+Builder;Honors+in+Blockchain+%7C+Minor+in+AI+for+IoT;Technical+Lead+%40+Saintgits+Blockchain+Club;Open+to+AI%2FML+%26+Data+Science+Internships+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 </div>
