@@ -129,7 +129,6 @@ open_to:     AI/ML & DS Internships
   <img src="https://go-skill-icons.vercel.app/api/icons?i=c&theme=dark&animate=true" width="48" height="48" alt="c" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark&animate=true" width="48" height="48" alt="sql" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark&animate=true" width="48" height="48" alt="linux" />
 </td>
 </tr>
 <tr>
@@ -144,6 +143,8 @@ open_to:     AI/ML & DS Internships
 <td align="right"><b>🕸️ Agentic AI</b></td>
 <td>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="langchain" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark&animate=true" width="48" height="48" alt="langchain" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langgraph&theme=dark&animate=true" width="48" height="48" alt="langgraph" />
 </td>
 </tr>
 <tr>
