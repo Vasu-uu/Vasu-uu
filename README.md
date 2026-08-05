@@ -5,10 +5,10 @@
 
 # Vasudev V
 
-#### ML Engineer · Data Scientist · Computer Vision Practitioner · B.Tech CSE Student
+#### ML Engineer · Computer Vision Practitioner · Agentic AI Builder · B.Tech CSE Student
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&height=50&lines=B.Tech+CSE+%40+Saintgits+College%2C+Kerala;Computer+Vision+Builder;Minor+in+AI+for+IoT;Technical+Lead+%40+Saintgits+Blockchain+Club;Open+to+AI%2FML+%26+Data+Science+Internships+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&height=50&lines=B.Tech+CSE+%40+Saintgits+College%2C+Kerala;Computer+Vision+%26+ML+Builder;Minor+in+AI+for+IoT;Technical+Lead+%40+Saintgits+Blockchain+Club;Exploring+Agentic+AI+%26+LangGraph+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 </div>
@@ -45,11 +45,11 @@
 
 ## 👋 Who I Am
 
-I'm **Vasudev V** — a **Computer Science undergraduate** at **Saintgits College of Engineering, Kerala**, operating at the intersection of **machine learning, data science, and computer vision**.
+I'm **Vasudev V** — a final-year **Computer Science undergraduate** at **Saintgits College of Engineering, Kerala**, building end-to-end machine learning, computer vision, and backend systems.
 
-I architect end-to-end ML pipelines — from exploratory data analysis and feature engineering through model training, evaluation, and deployment — with a consistent emphasis on **precision, interpretability, and scalability**. My work spans **predictive analytics** (regression, classification, time-series forecasting), **computer vision** (image processing, object detection, pipeline automation), and **applied AI** (model optimization, inference pipelines, data storytelling).
+I've shipped biometric attendance software using YOLOv8 and FaceNet, trained intrusion-detection models on real network traffic data, and built a multi-agent AI learning assistant on LangGraph and the Gemini API. My work spans **computer vision** (object detection, face recognition pipelines), **applied ML** (classification, model evaluation, deployment), and a growing focus on **agentic AI and LLM-based tooling**.
 
-I'm pursuing an **Honors in Blockchain Technology** and a **Minor in AI for IoT**, and serve as **Technical Lead at the Saintgits Blockchain Club**. I approach every project with a product engineering mindset: the goal is never just a model, it is a reliable system that solves a real problem with measurable impact.
+I'm pursuing a **Minor in Artificial Intelligence for IoT** and serve as **Technical Lead at the Saintgits Blockchain Club**. I've solved 95+ problems on LeetCode and hold a HackerRank 5-star Python / 3-star SQL badge. I care about turning research and data into working, deployed systems — not just notebooks.
 
 </td>
 <td width="40%" valign="top">
@@ -58,14 +58,13 @@ I'm pursuing an **Honors in Blockchain Technology** and a **Minor in AI for IoT*
 
 ```yaml
 name:        Vasudev V
-role:        B.Tech CSE Student
-college:     Saintgits, Kerala
-focus:       AI/ML · Data Science · CV
-honors:      Blockchain Technology
+role:        B.Tech CSE Student (Final Year)
+college:     Saintgits, Kottayam, Kerala
+focus:       ML · Computer Vision · Agentic AI
 minor:       AI for IoT
 club:        Tech Lead, Blockchain Club
 internships: Infosys Springboard,
-             Intel Unnati, InAmigos
+             Intel Unnati
 open_to:     AI/ML & DS Internships
 ```
 
@@ -85,19 +84,19 @@ open_to:     AI/ML & DS Internships
 <td width="50%" valign="top">
 
 ### 🛠️ Building
-- 🌾 **Crop disease detection** computer vision pipelines for agricultural AI
-- 📊 **Predictive analytics engines** for regression & classification workflows
-- 📈 **Streamlit dashboards** for automated EDA and data storytelling
-- 🔌 Modular **ML training scaffolds** for rapid prototyping
+- 🎓 **Anti-Proxy Attendance System** — YOLOv8 + FaceNet biometric verification with role-based dashboards
+- 🤖 **PathMentor** — multi-agent AI learning assistant built on LangGraph + Gemini API
+- 📊 ML pipelines for classification and intrusion detection
+- 🔌 Flask + MySQL backends for deployed ML applications
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌱 Learning & Exploring
-- 🧠 **Deep learning architectures** — CNNs, Vision Transformers
-- ⚙️ **MLOps fundamentals** — model versioning, serving, monitoring
-- 🚀 **FastAPI** for ML model deployment
-- 🤖 LLM APIs, prompt engineering & the **Hugging Face** ecosystem
+- 🧠 Agentic AI architectures — planning, memory, and tool-use modules
+- ⚙️ LangChain & LangGraph for multi-agent orchestration
+- 🚀 Deployment workflows for ML-backed web apps
+- 🤖 LLM APIs and prompt engineering
 
 </td>
 </tr>
@@ -113,11 +112,11 @@ open_to:     AI/ML & DS Internships
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="python" width="58" height="58" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="tensorflow" width="58" height="58" />
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="pytorch" width="58" height="58" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="opencv" width="58" height="58" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="docker" width="58" height="58" />
+  <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="flask" width="58" height="58" />
 </div>
 
 <br/>
@@ -136,24 +135,22 @@ open_to:     AI/ML & DS Internships
 <tr>
 <td align="right"><b>🤖 ML / DL / CV</b></td>
 <td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark&animate=true" width="48" height="48" alt="tensorflow" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark&animate=true" width="48" height="48" alt="pytorch" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark&animate=true" width="48" height="48" alt="opencv" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn&theme=dark&animate=true" width="48" height="48" alt="sklearn" />
 </td>
 </tr>
 <tr>
-<td align="right"><b>📊 Data & Viz</b></td>
+<td align="right"><b>🕸️ Agentic AI</b></td>
 <td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark&animate=true" width="48" height="48" alt="numpy/pandas" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="langchain" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>☁️ Backend · Tooling</b></td>
 <td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark&animate=true" width="48" height="48" alt="fastapi" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=flask&theme=dark&animate=true" width="48" height="48" alt="flask" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="48" height="48" alt="docker" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark&animate=true" width="48" height="48" alt="mysql" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark&animate=true" width="48" height="48" alt="vscode" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark&animate=true" width="48" height="48" alt="github" />
 </td>
@@ -162,17 +159,16 @@ open_to:     AI/ML & DS Internships
 
 <div align="center">
 
-**📈 NumPy · Pandas · Matplotlib · Seaborn · Streamlit**
+**📈 Scikit-Learn · Streamlit · LangChain · LangGraph · Data Structures & Algorithms**
 
-![NumPy](https://img.shields.io/badge/NumPy-1A1A2E?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1A1A2E?style=flat-square&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-1A1A2E?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1A1A2E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1A1A2E?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-1A1A2E?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-1A1A2E?style=flat-square&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-1A1A2E?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1A1A2E?style=flat-square&logo=streamlit&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-1A1A2E?style=flat-square&logo=sqlite&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-1A1A2E?style=flat-square&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-1A1A2E?style=flat-square&logo=kaggle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1A1A2E?style=flat-square&logo=mysql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1A1A2E?style=flat-square&logo=chainlink&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1A1A2E?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
@@ -185,13 +181,12 @@ open_to:     AI/ML & DS Internships
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **Predictive Analytics** | ████████░░ Advanced | Regression, classification, time-series forecasting, feature engineering |
-| **Computer Vision** | ███████░░░ Proficient | Image processing, object detection, OpenCV pipelines, model deployment |
-| **ML Pipeline Engineering** | ████████░░ Advanced | Data ingestion, preprocessing, training, evaluation, serialization |
-| **Exploratory Data Analysis** | █████████░ Expert | Statistical analysis, visualization, data storytelling, outlier detection |
-| **Model Optimization** | ██████░░░░ Intermediate | Hyperparameter tuning, cross-validation, regularization strategies |
-| **Deep Learning** | ██████░░░░ Intermediate | Neural network architectures, CNNs, transfer learning fundamentals |
-| **Data Storytelling** | ████████░░ Advanced | Dashboards, visual narratives, Streamlit apps, business-ready reporting |
+| **Computer Vision** | ████████░░ Advanced | Object detection (YOLOv8), face recognition (FaceNet), OpenCV pipelines |
+| **ML Pipeline Engineering** | ████████░░ Advanced | Data ingestion, feature engineering, training, evaluation, deployment |
+| **Classification & Detection** | ████████░░ Advanced | Random Forest, intrusion detection, model evaluation (accuracy, F1-score) |
+| **Backend for ML Apps** | ███████░░░ Proficient | Flask APIs, MySQL schema design, role-based dashboards |
+| **Agentic AI / LLM Tooling** | ██████░░░░ Growing | LangChain, LangGraph, multi-agent systems, Gemini API integration |
+| **Data Structures & Algorithms** | ███████░░░ Proficient | 95+ problems solved on LeetCode |
 
 ---
 
@@ -204,10 +199,9 @@ open_to:     AI/ML & DS Internships
 
 | 🏢 Organization | 🎯 Role | 🛠️ What I Did |
 |:---|:---|:---|
-| **Infosys Springboard** | AI Intern | Applied AI/ML concepts in a structured industry internship program. |
-| **Intel Unnati Industrial Training Program** | ML Trainee | Completed industrial ML training focused on applied model development. |
+| **Infosys Springboard** | AI Intern (Feb 2026 – Apr 2026) | Curated and annotated an image dataset for a computer vision use case; trained and evaluated a YOLOv8m object detection model, validating accuracy on unseen real-world data. |
+| **Intel Unnati Industrial Training Program** | ML Trainee (May 2025 – Jul 2025) | Built a Random Forest model on the UNSW-NB15 dataset, achieving 93% accuracy and a 0.93 F1-score; collaborated on feature engineering, Flask deployment, and a real-time intrusion detection dashboard. |
 | **Saintgits Blockchain Club** | Technical Lead | Leading technical initiatives and mentoring within the college's blockchain community. |
-| **InAmigos Foundation** | Incoming Intern | Conducted a website audit producing an annotated PDF report; accepted internship offer. |
 | **Saintgits College of Engineering** | ML Engineer — Academic Projects & Independent Research (2022–Present) | Designed and executed end-to-end ML/CV/data science projects from EDA through deployment. |
 
 <sub>🔍 Actively seeking AI/ML and Data Science internships — open to research collaborations and open-source contributions.</sub>
@@ -219,68 +213,47 @@ open_to:     AI/ML & DS Internships
 <!-- ============================================================ -->
 ## 📌 Featured Projects
 
-<div align="center">
-
-[![Network Threat Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=Vasu-uu&repo=Network-Threat-Analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7C3AED&title_color=A855F7)](https://github.com/Vasu-uu/Network-Threat-Analyzer)
-[![Heart Failure Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Vasu-uu&repo=Heart-Failure-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7C3AED&title_color=A855F7)](https://github.com/Vasu-uu/Heart-Failure-Prediction)
-[![Crop Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=Vasu-uu&repo=Crop-Recommendation-System&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7C3AED&title_color=A855F7)](https://github.com/Vasu-uu/Crop-Recommendation-System)
-[![Complaint Management System](https://github-readme-stats.vercel.app/api/pin/?username=Vasu-uu&repo=Complaint-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7C3AED&title_color=A855F7)](https://github.com/Vasu-uu/Complaint-Management-System)
-
-</div>
-
 <details>
-<summary><b>⬡ &nbsp;Crop Disease Detection System</b> &nbsp;—&nbsp; Computer Vision · ML · Streamlit</summary>
+<summary><b>⬡ &nbsp;Anti-Proxy Attendance System</b> &nbsp;—&nbsp; Computer Vision · Biometrics · Flask · MySQL</summary>
 
 <br/>
 
-An end-to-end computer vision system designed to detect and classify crop diseases from leaf images with high accuracy, enabling early agricultural intervention.
+A biometric attendance platform using YOLOv8 and FaceNet for automated student verification, backed by a normalized MySQL schema and role-based dashboards.
 
 <div align="center">
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Python · OpenCV · Scikit-Learn · Streamlit · NumPy · Pillow |
-| **Domain** | Agricultural AI · Computer Vision · Image Classification |
-| **Performance** | Multi-class classification with cross-validated accuracy reporting |
-| **Architecture** | Image preprocessing pipeline → Feature extraction → Classifier → Streamlit inference UI |
-| **Security** | Local inference, no external data transmission |
-| **Impact** | Enables low-resource, real-time plant health diagnostics for field use |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vasu-uu/Crop-Recommendation-System) |
+| **Stack** | Python · YOLOv8 · FaceNet · OpenCV · Flask · MySQL |
+| **Domain** | Computer Vision · Biometrics · Backend Engineering |
+| **Architecture** | Face detection (YOLOv8) → Face recognition (FaceNet) → Verification → MySQL-backed dashboard |
+| **Features** | Role-based dashboards, real-time analytics, CSV export for administrative reporting |
+| **Impact** | Automates attendance verification and eliminates proxy attendance |
 
 </div>
-
-This system ingests raw leaf imagery, applies OpenCV-based preprocessing (noise reduction, normalization, segmentation), extracts discriminative features, and runs inference through a trained classifier. The Streamlit frontend provides a minimal, deployable interface accessible without GPU infrastructure — designed for practical deployment in resource-constrained agricultural environments.
-
-<br/>
 
 </details>
 
 ---
 
 <details>
-<summary><b>⬡ &nbsp;Predictive Analytics Engine</b> &nbsp;—&nbsp; ML · Forecasting · Data Science</summary>
+<summary><b>⬡ &nbsp;PathMentor – AI Learning Assistant</b> &nbsp;—&nbsp; Agentic AI · LangGraph · Gemini API</summary>
 
 <br/>
 
-A modular machine learning system for structured data forecasting and classification, built around configurable preprocessing, model selection, and evaluation workflows.
+A multi-agent AI learning assistant that generates personalized study plans, built on the Gemini API and orchestrated with LangGraph.
 
 <div align="center">
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Python · Scikit-Learn · Pandas · NumPy · Matplotlib · Seaborn |
-| **Domain** | Predictive Modeling · Statistical Learning · Data Engineering |
-| **Performance** | Automated cross-validation, RMSE/MAE/R² reporting, confusion matrix analysis |
-| **Architecture** | Ingestion → EDA → Feature Engineering → Model Training → Evaluation → Export |
-| **Security** | Fully local computation, reproducible seeds, versioned outputs |
-| **Impact** | Reusable pipeline scaffold applicable across regression and classification tasks |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vasu-uu/Heart-Failure-Prediction) |
+| **Stack** | Python · Flask · Gemini API · LangGraph |
+| **Domain** | Agentic AI · LLM Tooling · Personalized Learning |
+| **Architecture** | Planning agent → Memory module → Web search agent → Secure code execution → Flask interface |
+| **Features** | Browser-based interface with session persistence for continuous learning |
+| **Impact** | Demonstrates a full agentic pipeline — planning, memory, tool use — behind a usable web app |
 
 </div>
-
-Designed as a repeatable engineering scaffold rather than a single-purpose notebook, this pipeline separates each stage of the ML workflow into independently testable modules. Feature engineering, model selection, and evaluation protocols are configurable, enabling rapid adaptation to new datasets without rewriting core logic.
-
-<br/>
 
 </details>
 
@@ -291,7 +264,7 @@ Designed as a repeatable engineering scaffold rather than a single-purpose noteb
 
 <br/>
 
-An AI/ML-based system for classifying network traffic and detecting cyber threats using the UNSW-NB15 dataset, distinguishing safe traffic from malicious activity via a Random Forest classifier.
+An AI/ML-based system for classifying network traffic and detecting cyber threats using the UNSW-NB15 dataset, distinguishing safe traffic from malicious activity via a Random Forest classifier (93% accuracy, 0.93 F1-score).
 
 <div align="center">
 
@@ -299,15 +272,10 @@ An AI/ML-based system for classifying network traffic and detecting cyber threat
 |:---|:---|
 | **Stack** | Python · Scikit-Learn · Pandas · Random Forest |
 | **Domain** | Network Security · Threat Detection · Applied ML |
-| **Performance** | Multi-class traffic classification on the UNSW-NB15 benchmark dataset |
 | **Architecture** | Traffic ingestion → Feature preprocessing → Random Forest classifier → Threat label output |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vasu-uu/Network-Threat-Analyzer) |
 
 </div>
-
-This project applies classical ML to a security-relevant classification problem, distinguishing benign from malicious network traffic patterns to enable early threat flagging.
-
-<br/>
 
 </details>
 
@@ -321,50 +289,17 @@ This project applies classical ML to a security-relevant classification problem,
 
 | Recognition | Details |
 |:---|:---|
-| **AI Intern, Infosys Springboard** | Completed structured industry AI/ML internship program |
-| **ML Trainee, Intel Unnati** | Completed industrial training program in applied machine learning |
+| **95+ LeetCode Problems Solved** | Consistent practice in data structures & algorithms |
+| **HackerRank 5-Star Python / 3-Star SQL** | Verified proficiency badges |
+| **OCI 2025 Certified AI Foundations Associate** | Oracle |
+| **Applied Generative AI** | Infosys Springboard |
+| **Claude Code in Action** | Anthropic |
+| **SQL (Intermediate)** | HackerRank |
 | **Technical Lead, Saintgits Blockchain Club** | Leading technical direction and mentorship for the college blockchain community |
-| **Honors in Blockchain Technology** | Pursuing specialized honors track alongside core CSE curriculum |
-| **Computer Vision Pipeline** | Built a fully functional crop disease detection system with real-world agricultural applicability |
-| **Internship Ready** | Building toward AI/ML and Data Science internship placement with a portfolio demonstrating applied engineering depth |
 
 </div>
 
 <br/>
-
----
-
-<!-- ============================================================ -->
-<!--                  GITHUB METRICS & STATS                      -->
-<!-- ============================================================ -->
-## 📊 GitHub Metrics & Stats Dashboard
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vasu-uu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=A855F7"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu-uu&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7C3AED"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vasu-uu&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakLabel=7C3AED)](https://git.io/streak-stats)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vasu-uu&theme=tokyonight" width="100%" alt="profile summary"/>
-
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vasu-uu&theme=tokyonight" alt="repos per language"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vasu-uu&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vasu-uu&bg_color=0D1117&color=7C3AED&line=A855F7&point=ffffff&area=true&hide_border=true)](https://github.com/Vasu-uu)
-
-</div>
-
-<!-- ============================================================ -->
-<!--                     CONTRIBUTION HEATMAP                      -->
-<!-- ============================================================ -->
-### 🟪 Contribution Heatmap
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/6d28d9/Vasu-uu" alt="Vasudev's GitHub Contribution Chart" />
-
-</div>
 
 ---
 
@@ -379,8 +314,8 @@ This project applies classical ML to a security-relevant classification problem,
 
 ### 🎓 Academic Track
 📖 B.Tech CSE — Saintgits College of Engineering <br>
-🔗 Honors in **Blockchain Technology** <br>
 🧩 Minor in **AI for IoT** <br>
+📊 GPA: 7.86/10.0 <br>
 📅 Graduating **2027**
 
 </td>
@@ -389,16 +324,15 @@ This project applies classical ML to a security-relevant classification problem,
 ### 💼 Industry Exposure
 🏢 AI Intern — **Infosys Springboard** <br>
 🏢 ML Trainee — **Intel Unnati** <br>
-🏢 Incoming Intern — **InAmigos Foundation** <br>
 👨‍💻 Technical Lead — **Blockchain Club**
 
 </td>
 <td width="33%" valign="top" align="center">
 
 ### 🌱 Current Focus
-🧠 Deep learning & Vision Transformers <br>
-⚙️ MLOps fundamentals <br>
-🚀 FastAPI model deployment <br>
+🕸️ Agentic AI & multi-agent systems <br>
+⚙️ LangChain & LangGraph <br>
+🚀 Deployment for ML-backed apps <br>
 🤖 LLM APIs & prompt engineering
 
 </td>
@@ -423,21 +357,20 @@ This project applies classical ML to a security-relevant classification problem,
 ```yaml
 current_focus:
   learning:
-    - Deep learning architectures (CNNs, Vision Transformers)
-    - MLOps fundamentals: model versioning, serving, monitoring
+    - Agentic AI architectures: planning, memory, tool use
+    - LangChain & LangGraph for multi-agent orchestration
     - Advanced SQL and database optimization
-    - FastAPI for ML model deployment
+    - Deployment workflows for ML-backed web apps
 
   building:
-    - End-to-end computer vision pipelines for agricultural applications
-    - Interactive Streamlit dashboards for data storytelling
-    - Modular ML training scaffolds for rapid prototyping
+    - Biometric attendance systems (YOLOv8 + FaceNet)
+    - Multi-agent AI learning assistants (LangGraph + Gemini API)
+    - Flask + MySQL backends for deployed ML applications
 
   exploring:
     - Large language model APIs and prompt engineering
-    - Hugging Face ecosystem: transformers, datasets, spaces
-    - Cloud deployment for ML workloads (AWS, GCP basics)
-    - Reinforcement learning fundamentals
+    - Secure code execution modules for agentic pipelines
+    - Cloud deployment for ML workloads
 
   open_to:
     - AI / ML Internship opportunities
