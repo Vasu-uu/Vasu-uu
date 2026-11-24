@@ -4,8 +4,6 @@
 
 **I build machine learning and computer vision systems, and I like taking them from a notebook to something people can actually use.**
 
-[Projects](#-projects) · [Stack](#-stack) · [Experience](#-experience) · [Contact](#-contact)
-
 <a href="https://vasu-uu.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-F28A3C?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/vasudev-v-"><img src="https://img.shields.io/badge/LinkedIn-24292F?style=for-the-badge&logo=linkedin&logoColor=F28A3C" alt="LinkedIn"></a>
 <a href="mailto:vasudev20057d@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=gmail&logoColor=F28A3C" alt="Email"></a>
@@ -24,64 +22,19 @@ class Vasudev:
     habit    = "ship the model behind a working app, not just a notebook"
 ```
 
-## 🔭 Now
+## <img src="assets/h-now.svg" alt="Now" height="48">
 
 <!-- [PLACEHOLDER] inferred from my most recently updated repos; edit to match what you are focused on -->
 - 🛡️ [**truthlens**](https://github.com/Vasu-uu/truthlens): deepfake and AI-fraud checker for images, voice notes and scam messages
 - 🎯 [**Duelscope**](https://github.com/Vasu-uu/Duelscope): one-command benchmarking CLI to compare object detectors
 - 🤖 [**react-agent-studio**](https://github.com/Vasu-uu/react-agent-studio): a ReAct agent on LangGraph and Gemini with a chat UI
 
-## 🚀 Projects
+## <img src="assets/h-projects.svg" alt="Projects" height="48">
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**[TRACE Attendance System](https://github.com/Vasu-uu/TRACE-Attendance-System)**<br>
-Face-recognition attendance that checks who is actually in the room, to stop proxy attendance.<br>
-`YOLOv8` `FaceNet` `OpenCV` `Flask` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-**[PathMentor](https://github.com/Vasu-uu/PathMentor)**<br>
-Multi-agent assistant that writes personalized study plans and explanations.<br>
-`LangGraph` `Gemini API` `Flask`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**[Network-Threat-Analyzer](https://github.com/Vasu-uu/Network-Threat-Analyzer)**<br>
-Flags malicious network traffic with **93% accuracy and 0.93 F1** on UNSW-NB15.<br>
-`Random Forest` `scikit-learn` `Pandas`
-
-</td>
-<td valign="top">
-
-**[Heart-Failure-Prediction](https://github.com/Vasu-uu/Heart-Failure-Prediction)**<br>
-Web app that estimates heart failure risk from clinical inputs (**83.33% accuracy**).<br>
-`scikit-learn` `Flask`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**[Crop-Recommendation-System](https://github.com/Vasu-uu/Crop-Recommendation-System)**<br>
-Suggests the best crop for a farmer's soil and climate conditions.<br>
-`scikit-learn` `Flask`
-
-</td>
-<td valign="top">
-
-**[Complaint-Management-System](https://github.com/Vasu-uu/Complaint-Management-System)**<br>
-Submit and track complaints, with an admin dashboard for the full lifecycle.<br>
-`Node.js` `Express` `MySQL`
-
-</td>
-</tr>
+<tr><td width="50%"><a href="https://github.com/Vasu-uu/TRACE-Attendance-System"><img src="assets/c-trace.svg" alt="TRACE Attendance System project card" width="100%"></a></td><td width="50%"><a href="https://github.com/Vasu-uu/PathMentor"><img src="assets/c-pathmentor.svg" alt="PathMentor project card" width="100%"></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/Vasu-uu/Network-Threat-Analyzer"><img src="assets/c-nta.svg" alt="Network-Threat-Analyzer project card" width="100%"></a></td><td width="50%"><a href="https://github.com/Vasu-uu/Heart-Failure-Prediction"><img src="assets/c-heart.svg" alt="Heart-Failure-Prediction project card" width="100%"></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/Vasu-uu/Crop-Recommendation-System"><img src="assets/c-crop.svg" alt="Crop-Recommendation-System project card" width="100%"></a></td><td width="50%"><a href="https://github.com/Vasu-uu/Complaint-Management-System"><img src="assets/c-complaint.svg" alt="Complaint-Management-System project card" width="100%"></a></td></tr>
 </table>
 
 <details>
@@ -94,7 +47,7 @@ Submit and track complaints, with an admin dashboard for the full lifecycle.<br>
 
 </details>
 
-## 🧰 Stack
+## <img src="assets/h-stack.svg" alt="Stack" height="48">
 
 <table>
 <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,c,mysql,js,html&theme=dark" alt="Python, C, SQL, JavaScript, HTML"></td></tr>
@@ -104,7 +57,7 @@ Submit and track complaints, with an admin dashboard for the full lifecycle.<br>
 <tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code"></td></tr>
 </table>
 
-## 💼 Experience
+## <img src="assets/h-experience.svg" alt="Experience" height="48">
 
 | When | Where | What I did |
 |:--|:--|:--|
@@ -115,14 +68,13 @@ Leadership: Technical Lead, Saintgits Blockchain Club · PR Lead, AURA (Saintgit
 
 **Certifications:** Oracle OCI 2025 AI Foundations Associate <!-- [confirm current] --> · Applied Generative AI (Infosys Springboard) · Claude Code in Action (Anthropic) · HackerRank Python (5-star) and SQL (3-star) · 95+ LeetCode problems
 
-## 📈 Activity
+## <img src="assets/h-activity.svg" alt="Activity" height="48">
 
-<!-- 3D calendar and stats are generated daily by .github/workflows/profile-3d.yml (static SVGs in profile-3d-contrib/, so they always load). -->
+<!-- Generated daily by .github/workflows/profile-3d.yml (static SVG in profile-3d-contrib/, so it always loads). -->
 <div align="center">
-<img src="profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar for Vasu-uu with commit, issue and language stats" width="100%">
-<img src="profile-3d-contrib/profile-gitblock.svg" alt="Isometric block view of Vasu-uu's contributions over the last year" width="100%">
+<img src="profile-3d-contrib/profile-green.svg" alt="3D contribution calendar for Vasu-uu, green on white" width="100%">
 </div>
 
-## 📬 Contact
+## <img src="assets/h-contact.svg" alt="Contact" height="48">
 
 The quickest way to reach me is [email](mailto:vasudev20057d@gmail.com) or [LinkedIn](https://linkedin.com/in/vasudev-v-). I'm always happy to talk about ML, computer vision or agents.
