@@ -22,19 +22,19 @@ class Vasudev:
     habit    = "ship the model behind a working app, not just a notebook"
 ```
 
-## <img src="assets/h-now.svg" alt="Now" height="48">
+## <img src="assets/h-now.svg?v=2" alt="Now" height="48">
 
 <!-- [PLACEHOLDER] inferred from my most recently updated repos; edit to match what you are focused on -->
 - 🛡️ [**truthlens**](https://github.com/Vasu-uu/truthlens): deepfake and AI-fraud checker for images, voice notes and scam messages
 - 🎯 [**Duelscope**](https://github.com/Vasu-uu/Duelscope): one-command benchmarking CLI to compare object detectors
 - 🤖 [**react-agent-studio**](https://github.com/Vasu-uu/react-agent-studio): a ReAct agent on LangGraph and Gemini with a chat UI
 
-## <img src="assets/h-projects.svg" alt="Projects" height="48">
+## <img src="assets/h-projects.svg?v=2" alt="Projects" height="48">
 
 <table>
-<tr><td width="50%"><a href="https://github.com/Vasu-uu/TRACE-Attendance-System"><img src="assets/c-trace.svg" alt="TRACE Attendance System project card" width="100%"></a></td><td width="50%"><a href="https://github.com/Vasu-uu/PathMentor"><img src="assets/c-pathmentor.svg" alt="PathMentor project card" width="100%"></a></td></tr>
-<tr><td width="50%"><a href="https://github.com/Vasu-uu/Network-Threat-Analyzer"><img src="assets/c-nta.svg" alt="Network-Threat-Analyzer project card" width="100%"></a></td><td width="50%"><a href="https://github.com/Vasu-uu/Heart-Failure-Prediction"><img src="assets/c-heart.svg" alt="Heart-Failure-Prediction project card" width="100%"></a></td></tr>
-<tr><td width="50%"><a href="https://github.com/Vasu-uu/Crop-Recommendation-System"><img src="assets/c-crop.svg" alt="Crop-Recommendation-System project card" width="100%"></a></td><td width="50%"><a href="https://github.com/Vasu-uu/Complaint-Management-System"><img src="assets/c-complaint.svg" alt="Complaint-Management-System project card" width="100%"></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/Vasu-uu/TRACE-Attendance-System"><img src="assets/c-trace.svg?v=2" alt="TRACE Attendance System project card" width="100%"></a></td><td width="50%"><a href="https://github.com/Vasu-uu/PathMentor"><img src="assets/c-pathmentor.svg?v=2" alt="PathMentor project card" width="100%"></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/Vasu-uu/Network-Threat-Analyzer"><img src="assets/c-nta.svg?v=2" alt="Network-Threat-Analyzer project card" width="100%"></a></td><td width="50%"><a href="https://github.com/Vasu-uu/Heart-Failure-Prediction"><img src="assets/c-heart.svg?v=2" alt="Heart-Failure-Prediction project card" width="100%"></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/Vasu-uu/Crop-Recommendation-System"><img src="assets/c-crop.svg?v=2" alt="Crop-Recommendation-System project card" width="100%"></a></td><td width="50%"><a href="https://github.com/Vasu-uu/Complaint-Management-System"><img src="assets/c-complaint.svg?v=2" alt="Complaint-Management-System project card" width="100%"></a></td></tr>
 </table>
 
 <details>
@@ -47,7 +47,7 @@ class Vasudev:
 
 </details>
 
-## <img src="assets/h-stack.svg" alt="Stack" height="48">
+## <img src="assets/h-stack.svg?v=2" alt="Stack" height="48">
 
 <table>
 <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,c,mysql,js,html&theme=dark" alt="Python, C, SQL, JavaScript, HTML"></td></tr>
@@ -57,7 +57,7 @@ class Vasudev:
 <tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code"></td></tr>
 </table>
 
-## <img src="assets/h-experience.svg" alt="Experience" height="48">
+## <img src="assets/h-experience.svg?v=2" alt="Experience" height="48">
 
 | When | Where | What I did |
 |:--|:--|:--|
@@ -68,13 +68,13 @@ Leadership: Technical Lead, Saintgits Blockchain Club · PR Lead, AURA (Saintgit
 
 **Certifications:** Oracle OCI 2025 AI Foundations Associate <!-- [confirm current] --> · Applied Generative AI (Infosys Springboard) · Claude Code in Action (Anthropic) · HackerRank Python (5-star) and SQL (3-star) · 95+ LeetCode problems
 
-## <img src="assets/h-activity.svg" alt="Activity" height="48">
+## <img src="assets/h-activity.svg?v=2" alt="Activity" height="48">
 
 <!-- Generated daily by .github/workflows/profile-3d.yml (static SVG in profile-3d-contrib/, so it always loads). -->
 <div align="center">
 <img src="profile-3d-contrib/profile-green.svg" alt="3D contribution calendar for Vasu-uu, green on white" width="100%">
 </div>
 
-## <img src="assets/h-contact.svg" alt="Contact" height="48">
+## <img src="assets/h-contact.svg?v=2" alt="Contact" height="48">
 
 The quickest way to reach me is [email](mailto:vasudev20057d@gmail.com) or [LinkedIn](https://linkedin.com/in/vasudev-v-). I'm always happy to talk about ML, computer vision or agents.
