@@ -5,8 +5,8 @@ Hi, I'm Vasudev. I build machine learning and computer vision systems, and I lik
 <a href="https://vasu-uu.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-F28A3C?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/vasudev-v-"><img src="https://img.shields.io/badge/LinkedIn-2B2B2B?style=for-the-badge&logo=linkedin&logoColor=F28A3C" alt="LinkedIn"></a>
 <a href="mailto:vasudev20057d@gmail.com"><img src="https://img.shields.io/badge/Email-2B2B2B?style=for-the-badge&logo=gmail&logoColor=F28A3C" alt="Email"></a>
-<!-- [PLACEHOLDER] replace LEETCODE_USERNAME with your LeetCode username -->
-<a href="https://leetcode.com/u/LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-2B2B2B?style=for-the-badge&logo=leetcode&logoColor=F28A3C" alt="LeetCode"></a>
+<!-- [PLACEHOLDER] replace RaQRG66LNK with your LeetCode username -->
+<a href="https://leetcode.com/u/RaQRG66LNK/"><img src="https://img.shields.io/badge/LeetCode-2B2B2B?style=for-the-badge&logo=leetcode&logoColor=F28A3C" alt="LeetCode"></a>
 
 ## About me
 
