@@ -4,10 +4,10 @@
 
 **I build machine learning and computer vision systems, and I like taking them from a notebook to something people can actually use.**
 
-<a href="https://vasu-uu.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-3FB950?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-<a href="https://linkedin.com/in/vasudev-v-"><img src="https://img.shields.io/badge/LinkedIn-24292F?style=for-the-badge&logo=linkedin&logoColor=3FB950" alt="LinkedIn"></a>
-<a href="mailto:vasudev20057d@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=gmail&logoColor=3FB950" alt="Email"></a>
-<a href="https://leetcode.com/u/RaQRG66LNK/"><img src="https://img.shields.io/badge/LeetCode-24292F?style=for-the-badge&logo=leetcode&logoColor=3FB950" alt="LeetCode"></a>
+<a href="https://vasu-uu.github.io/Portfolio/"><img src="assets/b-portfolio.svg?v=2" alt="Portfolio" height="40"></a>
+<a href="https://linkedin.com/in/vasudev-v-"><img src="assets/b-linkedin.svg?v=2" alt="LinkedIn" height="40"></a>
+<a href="mailto:vasudev20057d@gmail.com"><img src="assets/b-email.svg?v=2" alt="Email" height="40"></a>
+<a href="https://leetcode.com/u/RaQRG66LNK/"><img src="assets/b-leetcode.svg?v=2" alt="LeetCode" height="40"></a>
 
 </div>
 
