@@ -117,9 +117,11 @@ Leadership: Technical Lead, Saintgits Blockchain Club · PR Lead, AURA (Saintgit
 
 ## 📈 Activity
 
-<!-- Counts come from my real contribution calendar, including private work. -->
+<!-- Streak totals come from my real contribution calendar, including private work. Widgets are public services and can be rate-limited. -->
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Vasu-uu&hide_border=true&background=00000000&ring=F28A3C&fire=F28A3C&currStreakLabel=F28A3C&sideLabels=8b949e&sideNums=8b949e&currStreakNum=8b949e&dates=8b949e&stroke=30363d" alt="Vasu-uu contribution streak and total contributions">
+<img height="165" src="https://streak-stats.demolab.com?user=Vasu-uu&hide_border=true&background=00000000&ring=F28A3C&fire=F28A3C&currStreakLabel=F28A3C&sideLabels=8b949e&sideNums=8b949e&currStreakNum=8b949e&dates=8b949e&stroke=30363d" alt="Vasu-uu contribution streak and total contributions">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu-uu&layout=donut-vertical&hide_border=true&bg_color=00000000&title_color=F28A3C&text_color=8b949e" alt="Vasu-uu most used languages">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vasu-uu&bg_color=0d1117&color=F28A3C&line=F28A3C&point=ffffff&area=true&area_color=F28A3C&hide_border=true" alt="Vasu-uu contribution activity graph over the last 31 days" width="100%">
 </div>
 
 ## 📬 Contact
